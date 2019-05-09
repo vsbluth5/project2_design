@@ -1,0 +1,52 @@
+h1, h2, h3, h4, h5 {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Stylish', sans-serif;
+    color: #546e7a;
+    text-align: center;
+}
+
+p {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 900;
+    line-height: 80%;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 380px;
+    width: 100%;
+}
+
+.bucket {
+    position: relative;
+    text-align: center;
+    font-weight: 600;
+    font-style: italic;
+    color: black;
+  
+}
+
+/* Centered text */
+.centered {
+  position: absolute;
+  top: 15%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.cell {
+    background-color: #ffebee;
+      border-style: solid;
+      border-width: 2px;
+      border-color: #b0bec5;
+      padding: 5px;
+      margin: 0px;
+}
+
+#logo {
+    width: 20%;
+    height: auto;
+}
